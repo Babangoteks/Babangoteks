@@ -1,4 +1,4 @@
-## Hi there 👋
+## This project that I created is "Smart Hydroponic automation" this tool is used for watering and monitoring humidity temperature. How this tool works is if it is at a time when the temperature and humidity are less than 60% then the Pump Relay will turn on until the humidity is above 60% and the temperature is below 30 degrees. and if the clock shows 6 am and 5 pm then the relay will turn on for 20 seconds. This tool can also be used to lower the temperature and increase humidity, it can also be used for watering or liquid fertilization.
 
 <!--
 **Babangoteks/Babangoteks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
